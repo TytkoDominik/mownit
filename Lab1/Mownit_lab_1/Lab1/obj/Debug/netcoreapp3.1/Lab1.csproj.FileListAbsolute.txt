@@ -1,0 +1,11 @@
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/dominik.d/Documents/Studia/Mownit/Lab1/Mownit_lab_1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
