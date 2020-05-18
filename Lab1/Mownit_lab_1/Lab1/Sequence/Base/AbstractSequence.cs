@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Lab1
+namespace Lab1.Sequence.Base
 {
     public abstract class AbstractSequence<T> where T : unmanaged
     {

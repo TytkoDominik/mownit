@@ -1,6 +1,7 @@
 using System.Linq;
+using Lab1.Sequence.Base;
 
-namespace Lab1
+namespace Lab1.Sequence.AlteredSequence
 {
     public class AlteredFloatSequence : AbstractSequence<float>
     {

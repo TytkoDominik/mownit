@@ -1,6 +1,8 @@
 ﻿using System;
+using Lab1.Sequence.AlteredSequence;
+using Lab1.Sequence.FirstSequence;
 
-namespace Lab1
+namespace Lab1.Program
 {
     class Program
     {
